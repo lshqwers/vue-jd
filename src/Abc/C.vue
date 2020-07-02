@@ -1,13 +1,11 @@
 <template>
-  
+    <h1>C</h1>
 </template>
 <script>
 export default {
-  
+    
 }
 </script>
-
-<style lang="scss" scoped>
+<style scoped>
 
 </style>
-
